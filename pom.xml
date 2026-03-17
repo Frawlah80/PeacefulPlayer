@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.pascalHann</groupId>
-    <artifactId>PeacefulPlayerRepacified</artifactId>
-    <version>3.0</version>
+    <artifactId>PeacefulPlayer</artifactId>
+    <version>4.0</version>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
