@@ -1,4 +1,4 @@
 main: com.pascalHann.peacefulplayerrepacified.PeacefulPlayerRepacified
-name: PeacefulPlayerRepacified
+name: PeacefulPlayer
 version: 3.0
-api-version: 1.19
+api-version: 1.21

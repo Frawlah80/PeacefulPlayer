@@ -47,7 +47,15 @@ public final class Mobs {
             EntityType.ZOGLIN,
             EntityType.ZOMBIE,
             EntityType.ZOMBIFIED_PIGLIN,
-            EntityType.ZOMBIE_VILLAGER
+            EntityType.ZOMBIE_VILLAGER,
+            EntityType.IRON_GOLEM, //will attack if attacked
+            // After 1.19
+            EntityType.PARCHED,
+            EntityType.CREAKING,
+            EntityType.BREEZE,
+            EntityType.BOGGED,
+            EntityType.ZOMBIE_NAUTILUS,
+            EntityType.CAMEL_HUSK
     );
 
     private Mobs() { }
