@@ -73,3 +73,4 @@ After a server restart the plugin should get listed when you run the /pl chatcom
 * ZOMBIE
 * ZOMBIFIED_PIGLIN
 * ZOMBIE_VILLAGER
+* The hostile mobs added after 1.19 im just lazy to edit this file
